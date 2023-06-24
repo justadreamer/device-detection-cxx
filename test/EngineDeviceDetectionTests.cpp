@@ -31,6 +31,8 @@
 #endif
 #endif
 
+using std::ofstream;
+
 EngineDeviceDetectionTests::EngineDeviceDetectionTests(
 	RequiredPropertiesConfig *requiredProperties,
 	const char *directory,
