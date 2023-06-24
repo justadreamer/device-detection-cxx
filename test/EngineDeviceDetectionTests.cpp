@@ -32,6 +32,7 @@
 #endif
 
 using std::ofstream;
+using std::endl;
 
 EngineDeviceDetectionTests::EngineDeviceDetectionTests(
 	RequiredPropertiesConfig *requiredProperties,
